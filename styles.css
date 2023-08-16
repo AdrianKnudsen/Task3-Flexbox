@@ -8,6 +8,7 @@ body {
     min-height: 100vh;
     color: whitesmoke;
     max-width: 950px;
+    min-width: 600px;
     max-height: 1000px;
     background: linear-gradient(360deg, rgba(245, 215, 189, 0.60) 0%, rgba(164, 137, 113, 0.91) 100%);
     
@@ -15,7 +16,6 @@ body {
 
 .image-box {
     width: 30%;
-    min-width: 10%;
     min-height: 470px;
     padding: 10px;
     box-sizing: border-box;
